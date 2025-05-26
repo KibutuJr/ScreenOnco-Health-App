@@ -1,6 +1,5 @@
-# Netlify configuration for static deployment
 [build]
-  # No build command needed (we’re serving plain files)
-  command = ""
-  # Publish the root of this repo
-  publish = "."
+  # Navigate into frontend, install deps, then build
+  command = "cd frontend && npm install && npm run build"
+  # Publish the Vite output directory
+  publish = "frontend/dist"
