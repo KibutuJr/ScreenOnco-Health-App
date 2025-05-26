@@ -15,7 +15,7 @@
 7. [Setup & Installation](#setup--installation)
 8. [Running Locally](#running-locally)
 9. [Deployment to Netlify](#deployment-to-netlify)
-10. [Screenshots](#screenshots)
+10. [Homepage Screenshot](#Homepagescreenshot)
 11. [Pitch Deck Summary](#pitch-deck-summary)
 12. [Contributing](#contributing)
 13. [License](#license)
@@ -211,7 +211,9 @@ Here’s a preview of the ScreenOnco Health App homepage:
 5. **Business Model (20%):** B2B subscriptions, freemium patient tier, enterprise licensing, data services.
 6. **Design & Delivery (20%):** Visually engaging slides, clear narrative, demo walkthrough.
 
-Full pitch deck available at [Canva Link]([https://www.canva.com/design/DAGTAHxtlGI/_miELy6k5PwaUuiFdz44mQ/edit?utm_content=DAGTAHxtlGI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGok5K03O8/3jeX64Tvn1lbqcIRSSHt_g/edit)).
+## 📂 Full Pitch Deck
+
+Full pitch deck available at [Canva Link](https://www.canva.com/design/DAGTAHxtlGI/_miELy6k5PwaUuiFdz44mQ/edit?utm_content=DAGTAHxtlGI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
