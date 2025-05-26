@@ -160,7 +160,7 @@ By combining these AI tools, we could rapidly prototype and build ScreenOnco end
    NEXT_PUBLIC_SUPABASE_URL=<your_supabase_url>
    NEXT_PUBLIC_SUPABASE_ANON_KEY=<your_anon_key>
    SUPABASE_SERVICE_ROLE_KEY=<your_service_role_key>
-   CLAUDE_API_KEY=<your_claude_api_key>
+  OPENAI_API_KEY=<your_openai_api_key>
    ```
 
 3. **Install Dependencies**
