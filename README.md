@@ -213,7 +213,8 @@ Here’s a preview of the ScreenOnco Health App homepage:
 
 ## 📂 Full Pitch Deck
 
-Full pitch deck available at [Canva Link](https://www.canva.com/design/DAGTAHxtlGI/_miELy6k5PwaUuiFdz44mQ/edit?utm_content=DAGTAHxtlGI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Full pitch deck available at [Canva Link](https://www.canva.com/design/DAGok5K03O8/cfVYqgfnt39fWCqNuh0FfQ/view?utm_content=DAGok5K03O8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb35b7885ff)
+
 
 ---
 
