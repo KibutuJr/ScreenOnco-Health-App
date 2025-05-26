@@ -110,7 +110,7 @@ Used state-of-the-art AI tools throughout development. Here’s how to replicate
 Supabase + Lovable.dev:
 Use Lovable’s chat interface to create and integrate a Supabase backend. For example, in Lovable’s UI, prompt:
 “Create a new Supabase project for ScreenOnco. Define tables: patients(id, name, email, dob, history) and appointments(id, patient_id, doctor_id, date, time, status). Set up user authentication (email/password).”
-Lovable will generate the SQL schema and configure authentication. Its docs note that “Lovable can automatically generate the necessary tables and schema based on your prompts”
+Lovable will generate the SQL schema and configure authentication. Its docs note that “Lovable can automatically generate the necessary tables and schema based on your prompts.”
 
 Cursor AI (Code Generation & Debugging):
 Use natural language to generate or fix code. Examples:
@@ -211,7 +211,7 @@ Here’s a preview of the ScreenOnco Health App homepage:
 5. **Business Model (20%):** B2B subscriptions, freemium patient tier, enterprise licensing, data services.
 6. **Design & Delivery (20%):** Visually engaging slides, clear narrative, demo walkthrough.
 
-*Full pitch deck available at [Canva Link]([https://www.canva.com/design/DAGTAHxtlGI/_miELy6k5PwaUuiFdz44mQ/edit?utm_content=DAGTAHxtlGI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGok5K03O8/3jeX64Tvn1lbqcIRSSHt_g/edit)).*
+Full pitch deck available at [Canva Link]([https://www.canva.com/design/DAGTAHxtlGI/_miELy6k5PwaUuiFdz44mQ/edit?utm_content=DAGTAHxtlGI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGok5K03O8/3jeX64Tvn1lbqcIRSSHt_g/edit)).
 
 ---
 
