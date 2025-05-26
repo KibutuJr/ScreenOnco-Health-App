@@ -38,7 +38,7 @@ This project was born from heartache. Having lost someone close to me to breast 
 
 1. **Missed Follow-Ups:** Despite advances in diagnostics, many clinics and private practices lack robust, automated systems to track patient follow-ups. As a result, abnormal findings can go unaddressed, leading to delayed diagnoses and worsened outcomes.
 
-2. **Fragmented Communication:** Patients leave appointments unsure of next steps. Without reliable reminders via SMS, WhatsApp, or email, important screening or consultation dates are often forgotten.
+2. **Fragmented Communication:** Patients leave appointments unsure of next steps. Without reliable reminders via SMS, WhatsApp, or Email, important screening or consultation dates are often forgotten.
 
 3. **Low Patient Engagement:** Breast cancer patients often experience anxiety, confusion, and information overload. They need an accessible, empathetic source of educational content and personalized guidance beyond clinic hours.
 
