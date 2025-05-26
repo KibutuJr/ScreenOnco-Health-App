@@ -99,8 +99,8 @@ Example Booking Flow
 | Frontend            | React (Next.js), Tailwind CSS                          |
 | Backend             | Supabase (Postgres, Auth, Realtime), Bolt.new          |
 | ML & Data Science   | Python, scikit-learn, TensorFlow, Wisconsin BC Dataset |
-| Chatbot             | Claude.ai API                                          |
-| Documentation & Dev | Lovable.dev, Cursor AI, MGX, Rork.app                  |
+| Chatbot             | OpenAI API                                          |
+| Documentation & Dev | Lovable.dev, Cursor AI, MGX, Rork.app, ChatGPT, Claude ai                  |
 | Deployment          | Netlify (CI/CD, Serverless Functions)                  |
 
 ---
