@@ -203,9 +203,10 @@ Here’s a preview of the ScreenOnco Health App homepage:
 
 ## 🎥 Demo Walkthrough
 
-[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/64a31235eeac41f188f446e74b8cdc3c-with-play.gif)](https://www.loom.com/share/64a31235eeac41f188f446e74b8cdc3c?sid=bad14b16-36dc-4b1d-a872-6c6d880ec869)
+Watch a full walkthrough of the **ScreenOnco Health App** in action:
 
-> _Click the image above to watch a full walkthrough of the ScreenOnco Health App._
+🔗 [Click here to watch on Loom](https://www.loom.com/share/64a31235eeac41f188f446e74b8cdc3c?sid=bad14b16-36dc-4b1d-a872-6c6d880ec869)
+
 
 
 ---
