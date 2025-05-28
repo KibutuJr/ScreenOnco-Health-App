@@ -16,9 +16,10 @@
 8. [Running Locally](#running-locally)
 9. [Deployment to Netlify](#deployment-to-netlify)
 10. [Homepage Screenshot](#Homepagescreenshot)
-11. [Pitch Deck Summary](#pitch-deck-summary)
-12. [Contributing](#contributing)
-13. [License](#license)
+11. [Video Desktop Walkthrough](#Desktopwalkthrough)
+12. [Pitch Deck Summary](#pitch-deck-summary)
+13. [Contributing](#contributing)
+14. [License](#license)
 
 ---
 
@@ -199,6 +200,13 @@ By combining these AI tools, we could rapidly prototype and build ScreenOnco end
 Here’s a preview of the ScreenOnco Health App homepage:
 
 ![ScreenOnco Home Page](https://i.imgur.com/ow7VjKV.jpeg)
+
+## 🎥 Demo Walkthrough
+
+[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/64a31235eeac41f188f446e74b8cdc3c-with-play.gif)](https://www.loom.com/share/64a31235eeac41f188f446e74b8cdc3c?sid=bad14b16-36dc-4b1d-a872-6c6d880ec869)
+
+> _Click the image above to watch a full walkthrough of the ScreenOnco Health App._
+
 
 ---
 
